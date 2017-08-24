@@ -1,5 +1,5 @@
 /**
- *  UniFi NVR Camera ha
+ *  UniFi NVR Camera
  *
  *  Copyright 2016 Chris Vincent
  *
